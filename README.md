@@ -4,7 +4,7 @@
 
 [Открыть сайт](https://vagapov-studio.netlify.app/)
 
-[![Сайт студии дизайна и разработки](assets/cover-linked-spheres.gif)](https://vagapov-studio.netlify.app/)
+[![Сайт студии дизайна и разработки](assets/cover-organic-drops.gif)](https://vagapov-studio.netlify.app/)
 
 ## Задача
 
