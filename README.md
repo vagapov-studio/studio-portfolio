@@ -4,7 +4,7 @@
 
 [Открыть сайт](https://vagapov-studio.netlify.app/)
 
-[![Сайт студии дизайна и разработки](assets/cover.jpg)](https://vagapov-studio.netlify.app/)
+[![Сайт студии дизайна и разработки](assets/cover.gif)](https://vagapov-studio.netlify.app/)
 
 ## Задача
 
